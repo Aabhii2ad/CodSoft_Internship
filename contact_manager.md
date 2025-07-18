@@ -1,4 +1,5 @@
 Contact Management System
+
 This is a simple command-line based Contact Management System implemented in Python. It allows users to store, view, search, update, and delete contact information.
 
 Table of Contents
